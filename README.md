@@ -1,4 +1,4 @@
-# Docker-php-nginx-mysql boilerplate
+# php-nginx-mysql-docker boilerplate
 
 Nice to have boilerplate.
 
